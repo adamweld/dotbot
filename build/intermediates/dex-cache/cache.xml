@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Alex Crist\Desktop\DotBots\app\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68bbde957d9c0e12cb8d0508c1b8cbba84cbac9c">
+        <dex dex="C:\Users\Alex Crist\Desktop\DotBots\app\android\build\intermediates\pre-dexed\debug\core-1.0-1a719d581c355e8f7e50d7597a130790d23ed2c1.jar" />
+    </item>
+
+</items>
