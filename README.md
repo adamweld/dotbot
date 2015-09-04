@@ -1,4 +1,3 @@
 # dotbot
 
-Demo image:
-./screenshot.png
+![demo image](./screenshot.png)
